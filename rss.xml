@@ -4,7 +4,7 @@
         <description><![CDATA[Vanessa Crosbie Ramsay]]></description>
         <link>https://thegrid.ai/vanessa-crosbie-ramsay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 20:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 20:21:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vanessa-crosbie-ramsay/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CONTACT]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/vanessa-crosbie-ramsay/contact/index.html</link>
             <guid isPermaLink="false">fdf0a13e-d3ba-4909-8b45-2d91123bb2c9</guid>
             <pubDate>Sat, 02 Apr 2016 20:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About:]]></title>
+            <description><![CDATA[<article><h1>About:</h1><p>LILT FILMS is devoted to storytelling. We gather ideas, look for the unique voice in each project, and work to weave them together into stories that engage, entertain, and are creatively told.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3295620824910ee9e18f1f00b200e70e22ae13b5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vanessa-crosbie-ramsay/about/index.html</link>
+            <guid isPermaLink="false">64d702c1-fba3-4376-bc33-e1ab5af6cf5b</guid>
+            <pubDate>Sat, 02 Apr 2016 18:48:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
