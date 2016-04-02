@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-02T20:47:07.989Z'
-dateModified: '2016-04-02T20:47:01.865Z'
+datePublished: '2016-04-02T21:58:26.364Z'
+dateModified: '2016-04-02T21:58:00.873Z'
 title: VIDEO EDITING
 author: []
 sourcePath: _posts/2016-04-02-video-editing.md
@@ -22,6 +22,11 @@ url: video-editing/index.html
 _type: WebPage
 
 ---
+'Happening Here' ~ Dr. Anvari
+
+Editor, Double Barrel Studios
+
+https://vimeo.com/77626537
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a438127-396b-4f06-aafb-f6f41b0271ce.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51ae0428-d96f-46ff-8be7-b2834ea8f4c5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a4f5dc8-0f2c-4e1e-9267-2b4821b0821a.jpg)
