@@ -1,6 +1,6 @@
 name: Vanessa Crosbie Ramsay
 favicon: null
-layout_spectrum: 0.58603
+layout_spectrum: 0.65077
 typography_spectrum: 0.7385
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#a7a8ab'
     - '#e1e2e3'
   brandStrength: 0
-  lightness: 0.6533229856286198
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
