@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Vanessa Crosbie Ramsay]]></title>
         <description><![CDATA[Vanessa Crosbie Ramsay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vanessa-crosbie-ramsay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 18:48:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 18:48:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vanessa-crosbie-ramsay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact:]]></title>
+            <description><![CDATA[<article><h1>Contact:</h1><p>Do you have a project you'd like to discuss? </p></article>]]></description>
+            <link>https://thegrid.ai/vanessa-crosbie-ramsay/contact/index.html</link>
+            <guid isPermaLink="false">fdf0a13e-d3ba-4909-8b45-2d91123bb2c9</guid>
+            <pubDate>Sat, 02 Apr 2016 18:48:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About:]]></title>
+            <description><![CDATA[<article><h1>About:</h1><p>LILT FILMS is devoted to storytelling. We gather ideas, look for the unique voice in each project, and work to weave them together into stories that engage, entertain, and are creatively told.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3295620824910ee9e18f1f00b200e70e22ae13b5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vanessa-crosbie-ramsay/about/index.html</link>
+            <guid isPermaLink="false">64d702c1-fba3-4376-bc33-e1ab5af6cf5b</guid>
+            <pubDate>Sat, 02 Apr 2016 18:48:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design work]]></title>
             <description><![CDATA[<article><h1>Design work</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c189aaee19e2f375519bb4e9461a97a29a6f830a.jpg"></article>]]></description>
-            <link>undefineddesign-work/index.html</link>
+            <link>https://thegrid.ai/vanessa-crosbie-ramsay/design-work/index.html</link>
             <guid isPermaLink="false">90519685-cc25-4331-809b-6bf6c7685aac</guid>
             <pubDate>Sat, 02 Apr 2016 18:48:16 GMT</pubDate>
         </item>
