@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-02T20:44:14.586Z'
-dateModified: '2016-04-02T20:44:05.239Z'
+datePublished: '2016-04-02T20:47:07.989Z'
+dateModified: '2016-04-02T20:47:01.865Z'
 title: VIDEO EDITING
 author: []
+sourcePath: _posts/2016-04-02-video-editing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-video-editing.md
-published: true
 url: video-editing/index.html
 _type: WebPage
 
