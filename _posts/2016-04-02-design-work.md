@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-02T20:31:12.799Z'
-dateModified: '2016-04-02T20:25:22.720Z'
+datePublished: '2016-04-02T20:37:27.111Z'
+dateModified: '2016-04-02T20:37:26.803Z'
 title: PRINT/DESIGN
 author: []
 sourcePath: _posts/2016-04-02-design-work.md
