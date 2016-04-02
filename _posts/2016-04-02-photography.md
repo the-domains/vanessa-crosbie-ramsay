@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-02T20:13:37.952Z'
-dateModified: '2016-04-02T20:12:39.534Z'
+datePublished: '2016-04-02T20:22:04.353Z'
+dateModified: '2016-04-02T20:14:28.400Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-02-photography.md
