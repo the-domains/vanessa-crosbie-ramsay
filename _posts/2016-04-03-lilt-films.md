@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'LILT FILMS is devoted to storytelling. We gather ideas, look for the unique voice in each project, and work to weave the threads together into creatively told stories that engage audiences and provoke conversation.'
-datePublished: '2016-04-03T21:17:53.447Z'
-dateModified: '2016-04-03T21:14:52.661Z'
+datePublished: '2016-04-03T21:31:57.609Z'
+dateModified: '2016-04-03T21:25:20.398Z'
 title: LILT FILMS
 author: []
 sourcePath: _posts/2016-04-03-lilt-films.md
