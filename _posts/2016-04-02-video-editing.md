@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T17:33:04.074Z'
-dateModified: '2016-04-03T17:32:55.565Z'
+datePublished: '2016-04-03T20:20:22.806Z'
+dateModified: '2016-04-03T20:04:41.310Z'
 title: (VIDEO)EDITING
 author: []
 sourcePath: _posts/2016-04-02-video-editing.md
@@ -24,7 +24,9 @@ _type: WebPage
 ---
 'Happening Here' ~ Dr. Anvari
 
-Editor, Double Barrel Studios, Broadcast Commercial for Hamilton Economic Development
+Editor, Double Barrel Studios
+
+Broadcast Commercial for Hamilton Economic Development
 
 https://vimeo.com/77626537
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a438127-396b-4f06-aafb-f6f41b0271ce.jpg)
