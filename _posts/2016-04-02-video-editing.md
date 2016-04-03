@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-02T22:18:59.386Z'
-dateModified: '2016-04-02T22:05:29.580Z'
+datePublished: '2016-04-03T15:28:40.099Z'
+dateModified: '2016-04-03T15:28:39.818Z'
 title: VIDEO EDITING
 author: []
 sourcePath: _posts/2016-04-02-video-editing.md
