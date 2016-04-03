@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T14:19:15.601Z'
-dateModified: '2016-04-03T14:19:02.742Z'
+datePublished: '2016-04-03T14:23:18.230Z'
+dateModified: '2016-04-03T14:23:09.121Z'
 title: (PRINT)DESIGN
 author: []
 authors: []
