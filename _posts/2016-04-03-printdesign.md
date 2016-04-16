@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T20:39:47.825Z'
-dateModified: '2016-04-03T20:39:40.321Z'
-title: (PRINT)DESIGN
+datePublished: '2016-04-16T21:31:10.375Z'
+dateModified: '2016-04-16T21:29:04.045Z'
+title: (PRINT) DESIGN
 author: []
 sourcePath: _posts/2016-04-03-printdesign.md
 published: true
@@ -23,12 +23,10 @@ _type: WebPage
 
 ---
 Event Postcard
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/211491bde61352ca9c528a6c0aa6cbf6e4199533.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e6b402e-1c73-4f96-bdf1-b611071e7d67.jpg)
 
 Special Event Posters
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad3bd4ecb9be8bc897af777f3c0857cd0fbfac14.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a50d74da-573b-478e-9985-6b0575081e15.jpg)
 
-Fundraiser Campaign
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/304ba15e0d4df2b8cfb27aef90b92dcf6c408827.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0509ac60e04ce10c4dd777bafef2164b9090cf2e.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/feba2f6ffca8871a02bff72b2fa6f70393037b93.jpg)
+Fundraising Campaign
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4085ce1f-fe49-44c0-a427-23fc85d5d357.jpg)
